@@ -9,7 +9,7 @@ Login Credentials
 Username: Admin
 Password: admin
 
-Use the links for more information
+Use the links for more information. The link below will explain to you more about, how to install the project.
 
 https://youtu.be/V1PperfGINo
 
